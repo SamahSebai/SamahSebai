@@ -49,9 +49,7 @@
 
 <h3 align="left">Listen with me on Spotify:</h3>
 
-<div align="center">
-    <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=3167gidar5wyflfzhoyk45kkupfi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
-    </a>
-    <iframe src="https://open.spotify.com/embed/track/1DmW5Ep6ywYwxc2HMT5BG6" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-</div>
+
+ ![SamahSebai-Profil-Git](/default.svg)
+
+
