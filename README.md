@@ -29,6 +29,8 @@
 
 - 🌍 Curiosity: I love **exploring** different cultures, **learning** new things and **traveling** the world
 
+<img src="https://github.com/SamahSebai/SamahSebai-Profil-Git/blob/main/266805846-8fc06a5b-ddf4-4b7f-a858-43be8dd803c3.gif" width="100%" height="10px">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
