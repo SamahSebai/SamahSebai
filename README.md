@@ -21,7 +21,14 @@
 
 - 📫 How to reach me **samah.sebai.engineering@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- 🧩 Passionate about **solving challenges**
+
+- ☕ I love **coffee**
+
+- 😄 Pronouns: She/Her
+
+- 🌍 Curiosity: I love **exploring** different cultures, **learning** new things and **traveling** the world
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
