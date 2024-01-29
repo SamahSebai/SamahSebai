@@ -48,4 +48,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samahsebai&show_icons=true&locale=en" alt="samahsebai" /></p>
 
 <h3 align="left">Listen with me on Spotify:</h3>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3152ml7yt7dl46pfa52w5ibxvtsa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
+
+<div align="center">
+    <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=3167gidar5wyflfzhoyk45kkupfi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+    </a>
+</div>
